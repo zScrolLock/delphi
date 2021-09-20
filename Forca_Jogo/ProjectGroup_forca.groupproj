@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{07CB2ECF-634B-415A-8A4B-62EAC83E5F75}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Project_forca.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="forca.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Project_forca">
+        <MSBuild Projects="Project_forca.dproj"/>
+    </Target>
+    <Target Name="Project_forca:Clean">
+        <MSBuild Projects="Project_forca.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project_forca:Make">
+        <MSBuild Projects="Project_forca.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="forca">
+        <MSBuild Projects="forca.dproj"/>
+    </Target>
+    <Target Name="forca:Clean">
+        <MSBuild Projects="forca.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="forca:Make">
+        <MSBuild Projects="forca.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Project_forca;forca"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Project_forca:Clean;forca:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Project_forca:Make;forca:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

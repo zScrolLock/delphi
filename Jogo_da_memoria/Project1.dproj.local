@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/11/23 15:25:57.000.750,=E:\Projetos RAD Studio\Unit1.pas</Transaction>
+    <Transaction>2020/11/23 15:32:08.000.879,E:\Projetos RAD Studio\Unit1.pas=E:\Projetos RAD Studio\Jogo_da_memoria\Unit1.pas</Transaction>
+    <Transaction>2020/11/23 15:32:08.000.879,E:\Projetos RAD Studio\Unit1.dfm=E:\Projetos RAD Studio\Jogo_da_memoria\Unit1.dfm</Transaction>
+    <Transaction>2020/11/23 15:32:14.000.311,=E:\Projetos RAD Studio\Unit2.pas</Transaction>
+    <Transaction>2020/11/23 15:32:20.000.131,E:\Projetos RAD Studio\Unit2.dfm=E:\Projetos RAD Studio\Jogo_da_memoria\Unit2.dfm</Transaction>
+    <Transaction>2020/11/23 15:32:20.000.131,E:\Projetos RAD Studio\Unit2.pas=E:\Projetos RAD Studio\Jogo_da_memoria\Unit2.pas</Transaction>
+    <Transaction>2020/11/23 15:36:47.000.721,E:\Projetos RAD Studio\Project1.dproj=E:\Projetos RAD Studio\Jogo_da_memoria\Project1.dproj</Transaction>
+    <Transaction>2020/11/23 18:14:41.000.578,=E:\Projetos RAD Studio\Jogo_da_memoria\Unit3.pas</Transaction>
+    <Transaction>2020/11/23 18:20:36.000.674,=E:\Projetos RAD Studio\Jogo_da_memoria\Unit4.pas</Transaction>
+    <Transaction>2020/11/23 18:35:03.000.803,E:\Projetos RAD Studio\Jogo_da_memoria\Project1.dproj=E:\Projetos RAD Studio\Jogo_da_memoria\Project1.dproj</Transaction>
+    <Transaction>2020/11/30 13:30:53.000.412,=E:\Projetos RAD Studio\Jogo_da_memoria\Unit5.pas</Transaction>
+    <Transaction>2020/11/30 13:35:53.000.675,=E:\Projetos RAD Studio\Jogo_da_memoria\Unit6.pas</Transaction>
+    <Transaction>2020/11/30 14:52:18.000.065,=E:\Projetos RAD Studio\Jogo_da_memoria\Unit7.pas</Transaction>
+  </Transactions>
+</BorlandProject>
