@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/10/28 09:31:44.000.556,=E:\Projetos RAD Studio\Unit1.pas</Transaction>
+    <Transaction>2020/10/28 09:34:50.000.257,E:\Projetos RAD Studio\Calculadora\Calc_Luis_Augusto.pas=E:\Projetos RAD Studio\Unit1.pas</Transaction>
+    <Transaction>2020/10/28 09:34:50.000.257,E:\Projetos RAD Studio\Calculadora\Calc_Luis_Augusto.dfm=E:\Projetos RAD Studio\Unit1.dfm</Transaction>
+    <Transaction>2020/10/28 09:37:43.000.415,E:\Projetos RAD Studio\Calculadora\Projeto_calculadora.dproj=E:\Projetos RAD Studio\Project1.dproj</Transaction>
+    <Transaction>2020/10/30 13:30:29.000.876,=E:\Projetos RAD Studio\Calculadora\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/11/16 11:17:41.000.576,=E:\Projetos RAD Studio\Unit1.pas</Transaction>
+    <Transaction>2020/11/16 11:35:28.000.989,E:\Projetos RAD Studio\bingo\bingo_principal.pas=E:\Projetos RAD Studio\Unit1.pas</Transaction>
+    <Transaction>2020/11/16 11:35:28.000.989,E:\Projetos RAD Studio\bingo\bingo_principal.dfm=E:\Projetos RAD Studio\Unit1.dfm</Transaction>
+    <Transaction>2020/11/16 13:01:47.000.408,E:\Projetos RAD Studio\bingo\Project1.dproj=E:\Projetos RAD Studio\Project1.dproj</Transaction>
+    <Transaction>2020/11/16 13:13:14.000.600,E:\Projetos RAD Studio\bingo\Project1.dproj=E:\Projetos RAD Studio\bingo\Project1.dproj</Transaction>
+    <Transaction>2020/11/16 13:43:16.887,=E:\Projetos RAD Studio\bingo\Unit2.pas</Transaction>
+    <Transaction>2020/11/16 13:45:32.103,=E:\Projetos RAD Studio\bingo\Unit3.pas</Transaction>
+    <Transaction>2020/11/16 13:48:04.490,=E:\Projetos RAD Studio\bingo\Unit4.pas</Transaction>
+    <Transaction>2020/11/16 13:49:53.505,=E:\Projetos RAD Studio\bingo\Unit5.pas</Transaction>
+    <Transaction>2020/11/16 14:00:52.784,=E:\Projetos RAD Studio\bingo\Unit6.pas</Transaction>
+  </Transactions>
+</BorlandProject>
