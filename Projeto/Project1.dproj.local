@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/02 16:39:32.000.587,=E:\Projetos RAD Studio\Unit1.pas</Transaction>
+    <Transaction>2020/12/02 16:40:11.000.430,E:\Projetos RAD Studio\Trabalho_Venda\Unit1.dfm=E:\Projetos RAD Studio\Unit1.dfm</Transaction>
+    <Transaction>2020/12/02 16:40:11.000.430,E:\Projetos RAD Studio\Trabalho_Venda\Unit1.pas=E:\Projetos RAD Studio\Unit1.pas</Transaction>
+    <Transaction>2020/12/02 16:40:26.000.031,E:\Projetos RAD Studio\Trabalho_Venda\Project1.dproj=E:\Projetos RAD Studio\Project1.dproj</Transaction>
+    <Transaction>2020/12/02 18:18:45.000.620,=E:\Projetos RAD Studio\Trabalho_Venda\Unit2.pas</Transaction>
+    <Transaction>2020/12/02 18:22:08.000.733,=E:\Projetos RAD Studio\Trabalho_Venda\Unit3.pas</Transaction>
+    <Transaction>2020/12/02 22:10:13.000.612,=E:\Projetos RAD Studio\Trabalho_Venda\Unit4.pas</Transaction>
+    <Transaction>2021/02/14 11:39:14.000.354,=E:\Projetos RAD Studio\Projeto\Unit5.pas</Transaction>
+    <Transaction>2021/02/14 12:04:53.000.765,=E:\Projetos RAD Studio\Projeto\Unit6.pas</Transaction>
+    <Transaction>2021/02/16 15:25:14.000.413,=E:\Projetos RAD Studio\Projeto\Unit7.pas</Transaction>
+    <Transaction>2021/02/17 15:27:35.000.272,=E:\Projetos RAD Studio\Projeto\Unit8.pas</Transaction>
+    <Transaction>2021/02/17 16:45:41.000.023,=E:\Projetos RAD Studio\Projeto\Unit9.pas</Transaction>
+    <Transaction>2021/02/17 18:08:44.000.079,=E:\Projetos RAD Studio\Projeto\Unit10.pas</Transaction>
+    <Transaction>2021/02/17 18:19:29.000.085,=E:\Projetos RAD Studio\Projeto\Unit11.pas</Transaction>
+    <Transaction>2021/02/18 20:12:05.000.322,=E:\Projetos RAD Studio\Projeto\Unit12.pas</Transaction>
+    <Transaction>2021/02/18 20:12:29.000.436,=E:\Projetos RAD Studio\Projeto\Unit13.pas</Transaction>
+    <Transaction>2021/02/18 20:12:44.000.637,=E:\Projetos RAD Studio\Projeto\Unit13.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit7.pas"/>
+    <File Path="Unit7.dfm"/>
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit3.pas"/>
+    <File Path="Unit3.dfm"/>
+    <File Path="Unit4.pas"/>
+    <File Path="Unit4.dfm"/>
+    <File Path="Unit5.pas"/>
+    <File Path="Unit5.dfm"/>
+    <File Path="Unit6.pas"/>
+    <File Path="Unit6.dfm"/>
+    <File Path="Unit8.pas"/>
+    <File Path="Unit8.dfm"/>
+    <File Path="Unit9.pas"/>
+    <File Path="Unit9.dfm"/>
+    <File Path="Unit10.pas"/>
+    <File Path="Unit10.dfm"/>
+    <File Path="Unit11.pas"/>
+    <File Path="Unit11.dfm"/>
+    <File Path="Unit12.pas"/>
+    <File Path="Unit12.dfm"/>
+    <File Path="Unit13.pas"/>
+    <File Path="Unit13.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
